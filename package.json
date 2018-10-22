@@ -1,7 +1,7 @@
 {
-  "name": "boilermaker",
+  "name": "editor.io",
   "version": "1.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "Write your thongths, edit it and even delete it at any time",
   "engines": {
     "node": ">= 7.0.0"
   },
@@ -33,7 +33,7 @@
       "git add"
     ]
   },
-  "author": "Fullstack Academy of Code",
+  "author": "Raysa Aurrecochea",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.15.3",
